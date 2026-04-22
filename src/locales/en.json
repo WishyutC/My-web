@@ -1,0 +1,106 @@
+{
+"nav": {
+    "home": "Home",
+    "timeline": "Timeline",
+    "toolkit": "Toolkit",
+    "philosophy": "Philosophy"
+  },
+  "home": {
+    "greeting": "Hello, I'm",
+    "name": "Wishayut Chokanantnag",
+    "title": "Computer Engineering & AI Student | Web Developer | Networking Enthusiast",
+    "description": "Building modern web applications while exploring networking and infrastructure. Passionate about routing, MikroTik systems, and designing scalable, real-world solutions.",
+    "cta": "Explore My Work"
+  },
+  "timeline": {
+    "title": "My Journey",
+    "subtitle": "Key milestones in my learning and development",
+    "items": [
+       {
+        "year": "2026",
+        "title": "Microsoft Office Specialist – Word (Associate)",
+        "company": "Certiport (Pearson) / ARIT",
+        "description": "Earned Microsoft Office Specialist certification and participated in the MOS Olympic competition, gaining real exam and competitive experience."
+      },
+      {
+        "year": "2025",
+        "title": "Frontend Flutter Developer",
+        "company": "Nativemine Startup",
+        "description": "Developed and implemented internationalization (i18n) and built a settings page UI. Delivered a working demo before the project was paused."
+      },
+      {
+        "year": "2025",
+        "title": "JASSO Scholarship Student",
+        "company": "Kushiro Kosen (Japan)",
+        "description": "Awarded a full scholarship to study in Japan. Built a digital door lock system and received validation from Japanese professors."
+      },
+      {
+        "year": "2025",
+        "title": "AI + IoT Hackathon (Top 10)",
+        "company": "University Event",
+        "description": "Designed an AI companion system using Raspberry Pi 5 with local LLM (Gemma) and speech processing (STT/TTS), achieving Top 10 placement."
+      }
+    ]
+  },
+  "toolkit": {
+    "title": "Technology Stack",
+    "subtitle": "Tools and technologies I use daily",
+    "categories": {
+      "frontend": {
+        "title": "Frontend",
+        "items": ["React", "Next.js", "Tailwind CSS", "Flutter"]
+      },
+      "backend": {
+        "title": "Backend",
+        "items": ["Node.js", "Express", "PostgreSQL", "MongoDB", "REST APIs"]
+      },
+      "machine_learning": {
+        "title": "AI & Signal Processing",
+        "items": ["TensorFlow", "Keras", "Librosa", "CNNs", "NumPy"]
+      },
+      "infrastructure": {
+        "title": "Network & Cloud",
+        "items": ["Cloudflare", "TailScale", "GNS3", "MikroTik RouterOS", "AWS", "Docker"]
+      },
+      "tools": {
+        "title": "Tools & Platforms",
+        "items": ["Ubuntu", "Debian", "Git", "VS Code", "Android Studio", "Figma"]
+      },
+      "practices": {
+        "title": "Practices",
+        "items": ["Agile", "TDD", "CI/CD", "Code Review", "Documentation"]
+      }
+    }
+  },
+  "philosophy": {
+    "title": "Development Philosophy",
+    "subtitle": "Principles that guide my work",
+    "items": [
+      {
+        "title": "User-Centered Design",
+        "description": "Every line of code should serve the end user. I prioritize accessibility, performance, and intuitive interfaces that delight users."
+      },
+      {
+        "title": "Clean & Maintainable Code",
+        "description": "Writing code is easy; writing readable, maintainable code is an art. I believe in clear documentation, consistent patterns, and thoughtful architecture."
+      },
+      {
+        "title": "Continuous Learning",
+        "description": "Technology evolves rapidly. I stay curious, experiment with new tools, and share knowledge with the community through mentoring and open-source contributions."
+      },
+      {
+        "title": "Collaboration & Communication",
+        "description": "Great products are built by great teams. I value transparent communication, constructive feedback, and fostering a positive team culture."
+      }
+    ]
+  },
+    "footer": {
+  "copy": "2026 Wishayut Chokanantnag",
+  "status": "Currently open to new projects and exciting collaborations.",
+  "links": [
+    { "name": "GitHub", "url": "https://github.com/WishyutC" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/wishayut-chokanantang-746049393/?skipRedirect=true" },
+    { "name": "Email", "url": "mailto:wishayut.c@gmail.com" }
+  ]
+}
+}

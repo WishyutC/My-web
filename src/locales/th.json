@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "หน้าแรก",
+    "timeline": "เส้นทาง",
+    "toolkit": "ทักษะ",
+    "philosophy": "แนวคิด"
+  },
+  "home": {
+    "greeting": "สวัสดี ผมชื่อ",
+    "name": "Wishayut Chokanantnag",
+    "title": "นักศึกษา วิศวกรรมคอมพิวเตอร์ และ AI | Web Developer | ผู้สนใจด้าน Networking",
+    "description": "พัฒนาเว็บแอปพลิเคชัน พร้อมเรียนรู้ด้านเครือข่ายและโครงสร้างพื้นฐาน สนใจเรื่อง Routing, และระบบเครือข่าย internet",
+    "cta": "ดูผลงาน"
+  },
+  "timeline": {
+    "title": "เส้นทางของผม",
+    "subtitle": "ก้าวสำคัญในการเรียนรู้และพัฒนา",
+    "items": [
+      {
+        "year": "2026",
+        "title": "Microsoft Office Specialist – Word (Associate)",
+        "company": "Certiport (Pearson) / ARIT",
+        "description": "ได้รับใบรับรอง Microsoft Office Specialist และเข้าร่วมการแข่งขัน MOS Olympic เพื่อพัฒนาทักษะและประสบการณ์สอบจริง"
+      },
+      {
+        "year": "2025",
+        "title": "Frontend Flutter Developer",
+        "company": "Nativemine Startup",
+        "description": "พัฒนาระบบหลายภาษา (i18n) และสร้างหน้า Settings พร้อมส่งมอบเดโมที่ใช้งานได้ก่อนโปรเจกต์หยุด"
+      },
+      {
+        "year": "2025",
+        "title": "นักเรียนทุน JASSO",
+        "company": "Kushiro Kosen (ญี่ปุ่น)",
+        "description": "ได้รับทุนเต็มจำนวนไปศึกษาที่ประเทศญี่ปุ่น พัฒนาระบบ Digital Door Lock และได้รับการรับรองจากอาจารย์"
+      },
+      {
+        "year": "2025",
+        "title": "AI + IoT Hackathon (Top 10)",
+        "company": "กิจกรรมมหาวิทยาลัย",
+        "description": "ออกแบบระบบ AI Companion ด้วย Raspberry Pi 5 ใช้ LLM แบบ Local (Gemma) และระบบเสียง STT/TTS ได้รับอันดับ Top 10"
+      }
+    ]
+  },
+ "toolkit": {
+  "title": "เทคโนโลยีที่เชี่ยวชาญ",
+  "subtitle": "เครื่องมือและเทคโนโลยีที่เลือกใช้ในการทำงานและศึกษา",
+  "categories": {
+    "frontend": {
+      "title": "Frontend",
+      "items": ["React", "Next.js", "Tailwind CSS", "Flutter"]
+    },
+    "backend": {
+      "title": "Backend",
+      "items": ["Node.js", "Express", "PostgreSQL", "MongoDB", "REST APIs"]
+    },
+    "machine_learning": {
+      "title": "AI & Signal Processing",
+      "items": ["TensorFlow", "Keras", "Librosa", "CNNs", "NumPy"]
+    },
+    "infrastructure": {
+      "title": "Network & Cloud",
+      "items": ["Cloudflare", "TailScale", "GNS3", "MikroTik RouterOS", "AWS", "Docker"]
+    },
+    "tools": {
+      "title": "Tools & Platforms",
+      "items": ["Ubuntu", "Debian", "Git", "VS Code", "Android Studio", "Figma"]
+    },
+    "practices": {
+      "title": "แนวทางการทำงาน (Practices)",
+      "items": ["Agile", "TDD", "CI/CD", "Code Review", "Documentation"]
+    }
+  }
+},
+
+  "philosophy": {
+    "title": "ปรัชญาการพัฒนา",
+    "subtitle": "หลักการที่เป็นแนวทางในการทำงาน",
+    "items": [
+      {
+        "title": "การออกแบบที่เน้นผู้ใช้",
+        "description": "ทุกบรรทัดของโค้ดควรให้บริการผู้ใช้ปลายทาง ผมให้ความสำคัญกับการเข้าถึง ประสิทธิภาพ และอินเทอร์เฟซที่ใช้งานง่ายที่ทำให้ผู้ใช้พึงพอใจ"
+      },
+      {
+        "title": "โค้ดที่สะอาดและบำรุงรักษาได้",
+        "description": "การเขียนโค้ดเป็นเรื่องง่าย แต่การเขียนโค้ดที่อ่านง่ายและบำรุงรักษาได้คือศิลปะ ผมเชื่อในเอกสารที่ชัดเจน รูปแบบที่สม่ำเสมอ และสถาปัตยกรรมที่คิดอย่างรอบคอบ"
+      },
+      {
+        "title": "การเรียนรู้อย่างต่อเนื่อง",
+        "description": "เทคโนโลยีพัฒนาอย่างรวดเร็ว ผมยังคงอยากรู้อยากเห็น ทดลองใช้เครื่องมือใหม่ๆ และแบ่งปันความรู้กับชุมชนผ่านการให้คำปรึกษาและการมีส่วนร่วมในโอเพนซอร์ส"
+      },
+      {
+        "title": "การทำงานร่วมกันและการสื่อสาร",
+        "description": "ผลิตภัณฑ์ที่ยอดเยี่ยมถูกสร้างโดยทีมที่ยอดเยี่ยม ผมให้ความสำคัญกับการสื่อสารที่โปร่งใส ข้อเสนอแนะที่สร้างสรรค์ และการส่งเสริมวัฒนธรรมทีมที่ดี"
+      }
+    ]
+  },
+    "footer": {
+    "copy": "2026 Wishayut Chokanantnag",
+    "status": "พร้อมรับงานโปรเจกต์ใหม่และยินดีร่วมงานกับทุกคนครับ",
+    "links": [
+      { "url": "https://github.com/WishyutC" },
+      { "url": "https://www.linkedin.com/in/wishayut-chokanantang-746049393/?skipRedirect=true" },
+      { "url": "mailto:wishayut.c@gmail.com" }
+    ]
+  }
+}
+  

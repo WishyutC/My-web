@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "timeline": "経歴",
+    "toolkit": "スキル",
+    "philosophy": "理念"
+  },
+  "home": {
+    "greeting": "こんにちは、",
+    "name": "Wishayut Chokanantnag",
+    "title": "コンピュータ工学・AI専攻の学生 | Web開発者 | ネットワーク愛好家",
+    "description": "モダンなWebアプリケーションを開発しながら、ネットワークとインフラ技術を学んでいます。ルーティングやMikroTikシステム、スケーラブルなシステム設計に興味があります。",
+    "cta": "作品を見る"
+  },
+  "timeline": {
+    "title": "私の歩み",
+    "subtitle": "学習と成長の主なステップ",
+    "items": [
+      {
+        "year": "2026",
+        "title": "Microsoft Office Specialist – Word（Associate）",
+        "company": "Certiport (Pearson) / ARIT",
+        "description": "MOS Word資格を取得し、MOSオリンピックに参加。試験および競技環境での実践経験を獲得。"
+      },
+      {
+        "year": "2025",
+        "title": "フロントエンド（Flutter）開発者",
+        "company": "Nativemine スタートアップ",
+        "description": "多言語対応（i18n）を実装し、設定画面のUIを開発。プロジェクト停止前に動作するデモを完成。"
+      },
+      {
+        "year": "2025",
+        "title": "JASSO奨学生",
+        "company": "釧路高専（日本）",
+        "description": "日本での留学のための全額奨学金を受給。デジタルドアロックを開発し、教授から評価を受けた。"
+      },
+      {
+        "year": "2025",
+        "title": "AI + IoT ハッカソン（トップ10）",
+        "company": "大学イベント",
+        "description": "Raspberry Pi 5とローカルLLM（Gemma）を用いたAIシステムを開発し、トップ10に入賞。"
+      }
+    ]
+  },
+ "toolkit": {
+  "title": "技術スタック",
+  "subtitle": "日々の開発で使用しているツールと技術",
+  "categories": {
+    "frontend": {
+      "title": "フロントエンド",
+      "items": ["React", "Next.js", "Tailwind CSS", "Flutter"]
+    },
+    "backend": {
+      "title": "バックエンド",
+      "items": ["Node.js", "Express", "PostgreSQL", "MongoDB", "REST APIs"]
+    },
+    "machine_learning": {
+      "title": "AI・信号処理",
+      "items": ["TensorFlow", "Keras", "Librosa", "CNNs", "NumPy"]
+    },
+    "infrastructure": {
+      "title": "ネットワーク・クラウド",
+      "items": ["Cloudflare", "TailScale", "GNS3", "MikroTik RouterOS", "AWS", "Docker"]
+    },
+    "tools": {
+      "title": "ツール・プラットフォーム",
+      "items": ["Ubuntu", "Debian", "Git", "VS Code", "Android Studio", "Figma"]
+    },
+    "practices": {
+      "title": "開発プラクティス",
+      "items": ["Agile", "TDD", "CI/CD", "Code Review", "Documentation"]
+    }
+  }
+}, 
+
+  "philosophy": {
+    "title": "開発哲学",
+    "subtitle": "仕事を導く原則",
+    "items": [
+      {
+        "title": "ユーザー中心設計",
+        "description": "すべてのコードはエンドユーザーのために書かれるべきです。アクセシビリティ、パフォーマンス、そしてユーザーを喜ばせる直感的なインターフェースを優先します。"
+      },
+      {
+        "title": "クリーンで保守可能なコード",
+        "description": "コードを書くのは簡単ですが、読みやすく保守可能なコードを書くことは芸術です。明確なドキュメント、一貫したパターン、そして思慮深いアーキテクチャを信じています。"
+      },
+      {
+        "title": "継続的学習",
+        "description": "技術は急速に進化します。好奇心を持ち続け、新しいツールを試し、メンタリングやオープンソースへの貢献を通じてコミュニティと知識を共有します。"
+      },
+      {
+        "title": "協力とコミュニケーション",
+        "description": "素晴らしい製品は素晴らしいチームによって作られます。透明なコミュニケーション、建設的なフィードバック、そしてポジティブなチーム文化の育成を大切にします。"
+      }
+    ]
+  },
+    "footer": {
+  "copy": "2026 Wishayut Chokanantnag",
+  "status": "現在、新しいプロジェクトやコラボレーションの依頼を受け付けています。",
+  "links": [
+    { "name": "GitHub", "url": "https://github.com/WishyutC" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/wishayut-chokanantang-746049393/?skipRedirect=true" },
+    { "name": "Email", "url": "mailto:wishayut.c@gmail.com" }
+  ]
+}
+}
